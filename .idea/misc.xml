@@ -5,9 +5,19 @@
       <map>
         <entry key="..\:/PROJECT/JOKI/ConverterDeltaPressureDanTemperature/app/src/main/res/drawable/bg_btn_primary.xml" value="0.191" />
         <entry key="..\:/PROJECT/JOKI/ConverterDeltaPressureDanTemperature/app/src/main/res/drawable/bg_btn_white.xml" value="0.231" />
+        <entry key="..\:/PROJECT/JOKI/ConverterDeltaPressureDanTemperature/app/src/main/res/drawable/bg_edit_text.xml" value="0.191" />
         <entry key="..\:/PROJECT/JOKI/ConverterDeltaPressureDanTemperature/app/src/main/res/drawable/ic_launcher_background.xml" value="0.191" />
+        <entry key="..\:/PROJECT/JOKI/ConverterDeltaPressureDanTemperature/app/src/main/res/drawable/ic_pencil.xml" value="0.191" />
         <entry key="..\:/PROJECT/JOKI/ConverterDeltaPressureDanTemperature/app/src/main/res/drawable/ic_setting.xml" value="0.191" />
+        <entry key="..\:/PROJECT/JOKI/ConverterDeltaPressureDanTemperature/app/src/main/res/layout/activity_calculate.xml" value="0.17074275362318841" />
+        <entry key="..\:/PROJECT/JOKI/ConverterDeltaPressureDanTemperature/app/src/main/res/layout/activity_delta_pressure.xml" value="0.22" />
+        <entry key="..\:/PROJECT/JOKI/ConverterDeltaPressureDanTemperature/app/src/main/res/layout/activity_delta_temperature.xml" value="0.25" />
         <entry key="..\:/PROJECT/JOKI/ConverterDeltaPressureDanTemperature/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/PROJECT/JOKI/ConverterDeltaPressureDanTemperature/app/src/main/res/layout/activity_settings.xml" value="0.25" />
+        <entry key="..\:/PROJECT/JOKI/ConverterDeltaPressureDanTemperature/app/src/main/res/layout/layout_edit_name.xml" value="0.17074275362318841" />
+        <entry key="..\:/PROJECT/JOKI/ConverterDeltaPressureDanTemperature/app/src/main/res/layout/layout_edit_pressure.xml" value="0.31343283582089554" />
+        <entry key="..\:/PROJECT/JOKI/ConverterDeltaPressureDanTemperature/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.191" />
+        <entry key="..\:/PROJECT/JOKI/ConverterDeltaPressureDanTemperature/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.191" />
       </map>
     </option>
   </component>

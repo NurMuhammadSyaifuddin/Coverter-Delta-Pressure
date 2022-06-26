@@ -3,4 +3,16 @@
     <string name="title_konverter">Pilih Tipe Konverter</string>
     <string name="delta_pressure">Delta Pressure</string>
     <string name="delta_temperature">Delta Temperature</string>
+    <string name="pressure_evc">Pressure EVC</string>
+    <string name="pressure_gauge">Pressure Gauge</string>
+    <string name="result">Hasil</string>
+    <string name="_0">0\natau\n0%</string>
+    <string name="setting">Setting</string>
+    <string name="konstanta_tekanan_dalam_1_atm">Konstanta Tekanan dalam 1 Atm</string>
+    <string name="defaultnya_1_01325_bar">Defaultnya 1,01325 bar</string>
+    <string name="masukan_nilai_tekanan_atmosfer">Masukan Nilai Tekanan Atmosfer</string>
+    <string name="simpan">Simpan</string>
+    <string name="batal">Batal</string>
+    <string name="field_cannot_empty">Field tidak boleh kosong</string>
+    <string name="default_temperature">0</string>
 </resources>

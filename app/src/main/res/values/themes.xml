@@ -1,13 +1,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.ConverterDeltaPressureDanTemperature" parent="Theme.AppCompat.Light.NoActionBar">
+    <style name="Theme.ConverterDeltaPressureDanTemperature" parent="Theme.MaterialComponents.Light.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
         <item name="colorOnPrimary">@color/white</item>
         <item name="colorOnSecondary">@color/black</item>
+        <item name="textInputStyle">@style/TextInputStyle</item>
         <!-- Status bar color. -->
         <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+    </style>
+
+    <style name="TextInputStyle" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
+        <item name="boxStrokeWidth">@dimen/dp_0</item>
+        <item name="boxStrokeWidthFocused">@dimen/dp_0</item>
     </style>
 </resources>
